@@ -1,8 +1,8 @@
 
 Todo:
   ✔ Display the location for each move in the format (col, row) in the move history list. @started(22-05-10 21:30) @done(22-05-11 21:56) @lasted(1d26m59s)
-  ☐ Bold the currently selected item in the move list. @started(22-05-11 21:57)
-  ☐ Rewrite Board to use two loops to make the squares instead of hardcoding them.
+  ✔ Bold the currently selected item in the move list. @started(22-05-11 21:57) @done(22-05-11 21:59) @lasted(2m49s)
+  ☐ Rewrite Board to use two loops to make the squares instead of hardcoding them. @started(22-05-11 21:59)
   ☐ Add a toggle button that lets you sort the moves in either ascending or descending order.
   ☐ When someone wins, highlight the three squares that caused the win.
   ☐ When no one wins, display a message about the result being a draw.
